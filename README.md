@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antoww
 - 👀 I’m interested in potography
-- 🌱 I’m currently learning Ri1doutou
+- 🌱 I’m currently learning how to use Arduino.
 - 📫 How to reach me : Discord : Antow#1001
 
 <!---
