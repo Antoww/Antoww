@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Antoww
 - 👀 I’m interested in potography
-- 🌱 I’m currently learning how to use Arduino.
-- 📫 How to reach me : Discord : Antow#1001
+- 🌱 I’m currently learning how to use Python.
+- 📫 How to reach me : Discord : antow
 
 <!---
 Antoww/Antoww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
