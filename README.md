@@ -29,4 +29,3 @@
 ## Connect with Me
 
 [![Kepler's Discord](https://img.shields.io/badge/Discord_Join-blue)](https://discord.gg/GbavRtUwad)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter-handle)
