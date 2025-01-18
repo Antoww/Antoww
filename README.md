@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @Antoww
-- 👀 I’m interested in potography
-- 🌱 I’m currently learning how to use Python.
-- 📫 How to reach me : Discord : antow
+# Hi there, I'm Antoww! 👋
 
-<!---
-Antoww/Antoww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Antoww.Antoww)
+
+## About Me
+
+- 🔭 I’m currently working on discord bots !
+- 🌱 I’m currently learning JavaScript !
+- 📫 How to reach me: [Discord]((https://discord.gg/GbavRtUwad))
+
+## My Skills
+
+### Programming Languages
+- Python
+- JavaScript
+- VB.NET
+
+### Tools & Technologies
+- Git & GitHub
+- 
+## GitHub Stats
+
+![Antoww's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoww&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoww&layout=compact&theme=radical)
+
+## Connect with Me
+
+[![Kepler's Discord](https://img.shields.io/badge/Discord_Join-blue)](https://discord.gg/GbavRtUwad)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter-handle)
