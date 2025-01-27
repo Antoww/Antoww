@@ -13,6 +13,7 @@
 ### Programming Languages
 - Python
 - JavaScript
+- TypeScript
 - HTML/CSS/PHP
 - VB.NET
 
