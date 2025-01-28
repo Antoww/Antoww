@@ -1,7 +1,5 @@
 # Hi there, I'm Antoww! 👋
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Antoww.Antoww)
-
 ## About Me
 
 - 🔭 I’m currently working on discord bots !
@@ -15,8 +13,7 @@
 
 ### Tools & Technologies
 [![My Tools and Tech](https://skillicons.dev/icons?i=discordjs,deno,docker,debian,)](https://skillicons.dev)
-- Git & GitHub
-- Docker
+
 ## GitHub Stats
 
 ![Antoww's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoww&show_icons=true&theme=radical)
