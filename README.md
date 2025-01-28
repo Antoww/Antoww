@@ -11,13 +11,10 @@
 ## My Skills
 
 ### Programming Languages
-- Python
-- JavaScript
-- TypeScript
-- HTML/CSS/PHP
-- VB.NET
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,net)](https://skillicons.dev)
 
 ### Tools & Technologies
+[![My Tools and Tech](https://skillicons.dev/icons?i=discordjs,deno,docker,debian,)](https://skillicons.dev)
 - Git & GitHub
 - Docker
 ## GitHub Stats
