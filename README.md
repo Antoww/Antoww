@@ -1,5 +1,7 @@
 # Hi there, I'm Antoww! 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/216214448203890688)](https://discord.com/users/216214448203890688)
+
 ## About Me
 
 - 🔭 I’m currently working on discord bots !
