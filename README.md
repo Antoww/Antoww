@@ -28,7 +28,3 @@
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoww&layout=compact&theme=radical)
-
-## Connect with Me
-
-[![Kepler's Discord](https://img.shields.io/badge/Discord_Join-blue)](https://discord.gg/GbavRtUwad)
