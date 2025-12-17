@@ -4,9 +4,14 @@
 
 ## About Me
 
-- 🔭 I’m currently working on discord bots !
-- 🌱 I’m currently learning JavaScript !
+- 🔭 I'm currently working on discord bots !
+- 🌱 I'm currently learning JavaScript !
 - 📫 How to reach me: [Discord]((https://discord.gg/GbavRtUwad))
+
+## 🤖 My Discord Bot
+
+[![Invite Bot](https://img.shields.io/badge/Invite%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1208555753502412868&permissions=8&scope=bot%20applications.commands)
+[![Support Server](https://img.shields.io/badge/Support-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GbavRtUwad)
 
 ## My Skills
 
