@@ -23,8 +23,5 @@
 
 ## GitHub Stats
 
-![Antoww's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoww&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoww&layout=compact&theme=radical)
+![Followers](https://img.shields.io/github/followers/Antoww?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Antoww?style=social)
